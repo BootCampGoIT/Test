@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/BootCampGoIT/Test#readme",
   "dependencies": {
-    "shortid": "^2.2.15",
     "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "shortid": "^2.2.15"
   }
 }
